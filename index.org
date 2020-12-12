@@ -1,0 +1,45 @@
+#+TITLE: Business Plan For Ghana
+#+AUTHOR: Xudong Pan
+#+EMAIL: hawking81@gmail.com
+#+DATE: Today
+
+* Product 产品
+
+* Service 服务
+
+* Brand 品牌
+
+  |----------+--------------+--------------------------------------------------------|
+  | Name     | class        | sector                                                 |
+  |----------+--------------+--------------------------------------------------------|
+  | TUTUKA   |              | Digital Accessories,Baby care, Bed Product, Stationary |
+  |----------+--------------+--------------------------------------------------------|
+  | Jaymei   | 3, 10        | Cosmitics, Medical Care                                |
+  |----------+--------------+--------------------------------------------------------|
+  | Tocorpie | 9            | Digital Product                                        |
+  |----------+--------------+--------------------------------------------------------|
+  | Terase   | 5, 7, 11, 21 | Cleaning devices, Electronic Devices                   |
+  |----------+--------------+--------------------------------------------------------|
+
+
+* Market 市场
+  + Government
+  + Customer
+  + Supplier
+  + Competitor
+  + Industrial Chain
+  + Supply Chain
+
+* Key Value 核心价值
+
+* Business Pattern 商业模式
+
+* Resources 现有资源
+
+* SWOT SWOT分析
+** Strength
+** Weakness
+** Oppotunity
+** Trouble
+
+* Org 组织结构
