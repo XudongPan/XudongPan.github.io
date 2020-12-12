@@ -3,6 +3,11 @@
 #+EMAIL: hawking81@gmail.com
 #+DATE: Today
 
+
+#+OPTIONS: html-style:t
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="css/index.css" />
+#+HTML_HEAD_EXTRA: <link rel="alternate stylesheet" type="text/css" href="css/index.css" />
+
 * Product 产品
 
 * Service 服务
