@@ -39,6 +39,24 @@
 
 * Business Pattern 商业模式
 
+** Value Proposition
+
+** Customer
+
+** Channel
+
+** Customer Relationship
+
+** Key Resources
+
+** Key Support/suppliers/
+
+** Key Actions
+
+** Revenue
+
+** Cost
+
 * Resources 现有资源
 
 * SWOT SWOT分析
