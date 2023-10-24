@@ -24,3 +24,17 @@
   |----------+--------------+--------------------------------------------------------|
 
 * Traveling to China
+** City List
+*** Beijing 北京
+*** Dandong 丹东
+*** Tianjin 天津
+*** Nanjing 南京
+*** Huangshan 黄山
+*** Suzhou 苏州
+*** Shanghai 上海
+*** Hangzhou 杭州
+*** Wuhan 武汉
+*** Zhangjiajie 张家界
+*** Chongqing 重庆
+*** Chengdu 成都
+*** Xi‘An 西安
