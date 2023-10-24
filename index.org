@@ -1,4 +1,4 @@
-#+TITLE: Business Plan For Ghana
+#+TITLE: Xudong Home Page
 #+AUTHOR: Xudong Pan
 #+EMAIL: hawking81@gmail.com
 #+DATE: Today
@@ -8,11 +8,8 @@
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="css/index.css" />
 #+HTML_HEAD_EXTRA: <link rel="alternate stylesheet" type="text/css" href="css/index.css" />
 
-* Product 产品
 
-* Service 服务
-
-* Brand 品牌
+* Brand for Product
 
   |----------+--------------+--------------------------------------------------------|
   | name     | class        | sector                                                 |
@@ -26,43 +23,4 @@
   | Terase   | 5, 7, 11, 21 | Cleaning devices, Electronic Devices                   |
   |----------+--------------+--------------------------------------------------------|
 
-
-* Marketing 市场
-  + Government
-  + Customer
-  + Supplier
-  + Competitor
-  + Industrial Chain
-  + Supply Chain
-
-* Key Value 核心价值
-
-* Business Pattern 商业模式
-
-** Value Proposition
-
-** Customer
-
-** Channel
-
-** Customer Relationship
-
-** Key Resources
-
-** Key Support/suppliers/
-
-** Key Actions
-
-** Revenue
-
-** Cost
-
-* Resources 现有资源
-
-* SWOT SWOT分析
-** Strength
-** Weakness
-** Oppotunity
-** Trouble
-
-* Org 组织结构
+* Traveling to China
