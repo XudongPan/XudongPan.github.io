@@ -38,3 +38,35 @@
 *** Chongqing 重庆
 *** Chengdu 成都
 *** Xi‘An 西安
+** Todo
+ - [ ] Get New ID card
+ - [ ] Update Driver License
+ - [ ] Fix Laptop
+ - [ ] change Iphone battery
+ - [ ] Uni Classmate Meeting
+ - [ ] Mid School Classmate Meeting
+ - [ ] Family Meeting
+ - [ ]
+** Present to China
+*** Star Model : Cui Dawei
+*** Train Model : Zhang Hongwei
+*** Reisling
+** People Would meet
+*** Zhang Hongwei
+*** Cui Dawei
+*** Zhengyang/Yao Minghong
+*** Yu Leran
+*** Su Chang
+*** Tian Lixin
+*** Zhang Dawei
+---
+*** Farrah
+*** Imen
+*** Omar
+---
+*** Song Lingfei
+*** Wang Xiaochuan
+*** Zhao Zeming
+---
+*** Li Zhina
+***

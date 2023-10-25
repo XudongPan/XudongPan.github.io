@@ -1,16 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<!-- 2023-10-25 三 18:42 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Xudong Home Page</title>
+<meta name="author" content="Xudong Pan" />
+<meta name="generator" content="Org Mode" />
+<style>
+  #content { max-width: 60em; margin: auto; }
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #e6e6e6;
+    border-radius: 3px;
+    background-color: #f2f2f2;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: auto;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    top: -8px;
+    right: 12px;
+    padding: 3px;
+    color: #555;
+    background-color: #f2f2f299;
+  }
+  pre.src:hover:before { display: inline; margin-top: 14px;}
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-authinfo::before { content: 'Authinfo'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-hledger:before { content: 'hledger'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara { display: inline; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .equation-container {
+    display: table;
+    text-align: center;
+    width: 100%;
+  }
+  .equation {
+    vertical-align: middle;
+  }
+  .equation-label {
+    display: table-cell;
+    text-align: right;
+    vertical-align: middle;
+  }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { }
+</style>
+<link rel="stylesheet" type="text/css" href="css/index.css" />
+<link rel="alternate stylesheet" type="text/css" href="css/index.css" />
+</head>
+<body>
+<div id="content" class="content">
+<h1 class="title">Xudong Home Page</h1>
 <div id="table-of-contents" role="doc-toc">
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents" role="doc-toc">
 <ul>
-<li><a href="#org9fc5357">1. Brand for Product</a></li>
-<li><a href="#orgf3337e4">2. Traveling to China</a></li>
+<li><a href="#org78fd971">1. Brand for Product</a></li>
+<li><a href="#orga662a21">2. Traveling to China</a>
+<ul>
+<li><a href="#orgbed03b3">2.1. City List</a>
+<ul>
+<li><a href="#org57b8ec8">2.1.1. Beijing 北京</a></li>
+<li><a href="#org53c63cf">2.1.2. Dandong 丹东</a></li>
+<li><a href="#orgb3b31d9">2.1.3. Tianjin 天津</a></li>
+<li><a href="#org26ccb54">2.1.4. Nanjing 南京</a></li>
+<li><a href="#org1562cc5">2.1.5. Huangshan 黄山</a></li>
+<li><a href="#orgb57eec8">2.1.6. Suzhou 苏州</a></li>
+<li><a href="#org1243732">2.1.7. Shanghai 上海</a></li>
+<li><a href="#org9088415">2.1.8. Hangzhou 杭州</a></li>
+<li><a href="#orgbbecc95">2.1.9. Wuhan 武汉</a></li>
+<li><a href="#org49dba9a">2.1.10. Zhangjiajie 张家界</a></li>
+<li><a href="#orgbf224d8">2.1.11. Chongqing 重庆</a></li>
+<li><a href="#org6ee2753">2.1.12. Chengdu 成都</a></li>
+<li><a href="#orga899c33">2.1.13. Xi‘An 西安</a></li>
+</ul>
+</li>
+<li><a href="#orgda71d24">2.2. Todo</a></li>
+<li><a href="#orgde6b5e1">2.3. Present to China</a>
+<ul>
+<li><a href="#org3718eb9">2.3.1. Star Model : Cui Dawei</a></li>
+<li><a href="#org234bf8e">2.3.2. Train Model : Zhang Hongwei</a></li>
+<li><a href="#org02a504d">2.3.3. Reisling</a></li>
+</ul>
+</li>
+<li><a href="#org4fb79aa">2.4. People Would meet</a>
+<ul>
+<li><a href="#org8f5a918">2.4.1. Zhang Hongwei</a></li>
+<li><a href="#orgd2fac0c">2.4.2. Cui Dawei</a></li>
+<li><a href="#org3af3287">2.4.3. Zhengyang/Yao Minghong</a></li>
+<li><a href="#orgfa898dd">2.4.4. Yu Leran</a></li>
+<li><a href="#org97a96a3">2.4.5. Su Chang</a></li>
+<li><a href="#org31af6f5">2.4.6. Tian Lixin</a></li>
+<li><a href="#org585e204">2.4.7. Zhang Dawei</a></li>
+<li><a href="#org36fe8f6">2.4.8. Farrah</a></li>
+<li><a href="#org5235fac">2.4.9. Imen</a></li>
+<li><a href="#org2e512ab">2.4.10. Omar</a></li>
+<li><a href="#orgc61a97b">2.4.11. Song Lingfei</a></li>
+<li><a href="#orgad2b753">2.4.12. Wang Xiaochuan</a></li>
+<li><a href="#orgbd1818d">2.4.13. Zhao Zeming</a></li>
+<li><a href="#org17bd02c">2.4.14. Li Zhina</a></li>
+</ul>
+</li>
+</ul>
+</li>
 </ul>
 </div>
 </div>
-
-
-<div id="outline-container-org9fc5357" class="outline-2">
-<h2 id="org9fc5357"><span class="section-number-2">1.</span> Brand for Product</h2>
+<div id="outline-container-org78fd971" class="outline-2">
+<h2 id="org78fd971"><span class="section-number-2">1.</span> Brand for Product</h2>
 <div class="outline-text-2" id="text-1">
 <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
@@ -60,7 +305,156 @@
 </table>
 </div>
 </div>
-
-<div id="outline-container-orgf3337e4" class="outline-2">
-<h2 id="orgf3337e4"><span class="section-number-2">2.</span> Traveling to China</h2>
+<div id="outline-container-orga662a21" class="outline-2">
+<h2 id="orga662a21"><span class="section-number-2">2.</span> Traveling to China</h2>
+<div class="outline-text-2" id="text-2">
 </div>
+<div id="outline-container-orgbed03b3" class="outline-3">
+<h3 id="orgbed03b3"><span class="section-number-3">2.1.</span> City List</h3>
+<div class="outline-text-3" id="text-2-1">
+</div>
+<div id="outline-container-org57b8ec8" class="outline-4">
+<h4 id="org57b8ec8"><span class="section-number-4">2.1.1.</span> Beijing 北京</h4>
+</div>
+<div id="outline-container-org53c63cf" class="outline-4">
+<h4 id="org53c63cf"><span class="section-number-4">2.1.2.</span> Dandong 丹东</h4>
+</div>
+<div id="outline-container-orgb3b31d9" class="outline-4">
+<h4 id="orgb3b31d9"><span class="section-number-4">2.1.3.</span> Tianjin 天津</h4>
+</div>
+<div id="outline-container-org26ccb54" class="outline-4">
+<h4 id="org26ccb54"><span class="section-number-4">2.1.4.</span> Nanjing 南京</h4>
+</div>
+<div id="outline-container-org1562cc5" class="outline-4">
+<h4 id="org1562cc5"><span class="section-number-4">2.1.5.</span> Huangshan 黄山</h4>
+</div>
+<div id="outline-container-orgb57eec8" class="outline-4">
+<h4 id="orgb57eec8"><span class="section-number-4">2.1.6.</span> Suzhou 苏州</h4>
+</div>
+<div id="outline-container-org1243732" class="outline-4">
+<h4 id="org1243732"><span class="section-number-4">2.1.7.</span> Shanghai 上海</h4>
+</div>
+<div id="outline-container-org9088415" class="outline-4">
+<h4 id="org9088415"><span class="section-number-4">2.1.8.</span> Hangzhou 杭州</h4>
+</div>
+<div id="outline-container-orgbbecc95" class="outline-4">
+<h4 id="orgbbecc95"><span class="section-number-4">2.1.9.</span> Wuhan 武汉</h4>
+</div>
+<div id="outline-container-org49dba9a" class="outline-4">
+<h4 id="org49dba9a"><span class="section-number-4">2.1.10.</span> Zhangjiajie 张家界</h4>
+</div>
+<div id="outline-container-orgbf224d8" class="outline-4">
+<h4 id="orgbf224d8"><span class="section-number-4">2.1.11.</span> Chongqing 重庆</h4>
+</div>
+<div id="outline-container-org6ee2753" class="outline-4">
+<h4 id="org6ee2753"><span class="section-number-4">2.1.12.</span> Chengdu 成都</h4>
+</div>
+<div id="outline-container-orga899c33" class="outline-4">
+<h4 id="orga899c33"><span class="section-number-4">2.1.13.</span> Xi‘An 西安</h4>
+</div>
+</div>
+<div id="outline-container-orgda71d24" class="outline-3">
+<h3 id="orgda71d24"><span class="section-number-3">2.2.</span> Todo</h3>
+<div class="outline-text-3" id="text-2-2">
+<ul class="org-ul">
+<li class="off"><code>[&#xa0;]</code> Get New ID card</li>
+<li class="off"><code>[&#xa0;]</code> Update Driver License</li>
+<li class="off"><code>[&#xa0;]</code> Fix Laptop</li>
+<li class="off"><code>[&#xa0;]</code> change Iphone battery</li>
+<li class="off"><code>[&#xa0;]</code> Uni Classmate Meeting</li>
+<li class="off"><code>[&#xa0;]</code> Mid School Classmate Meeting</li>
+<li class="off"><code>[&#xa0;]</code> Family Meeting</li>
+<li class="off"><code>[&#xa0;]</code> </li>
+</ul>
+</div>
+</div>
+<div id="outline-container-orgde6b5e1" class="outline-3">
+<h3 id="orgde6b5e1"><span class="section-number-3">2.3.</span> Present to China</h3>
+<div class="outline-text-3" id="text-2-3">
+</div>
+<div id="outline-container-org3718eb9" class="outline-4">
+<h4 id="org3718eb9"><span class="section-number-4">2.3.1.</span> Star Model : Cui Dawei</h4>
+</div>
+<div id="outline-container-org234bf8e" class="outline-4">
+<h4 id="org234bf8e"><span class="section-number-4">2.3.2.</span> Train Model : Zhang Hongwei</h4>
+</div>
+<div id="outline-container-org02a504d" class="outline-4">
+<h4 id="org02a504d"><span class="section-number-4">2.3.3.</span> Reisling</h4>
+</div>
+</div>
+<div id="outline-container-org4fb79aa" class="outline-3">
+<h3 id="org4fb79aa"><span class="section-number-3">2.4.</span> People Would meet</h3>
+<div class="outline-text-3" id="text-2-4">
+</div>
+<div id="outline-container-org8f5a918" class="outline-4">
+<h4 id="org8f5a918"><span class="section-number-4">2.4.1.</span> Zhang Hongwei</h4>
+</div>
+<div id="outline-container-orgd2fac0c" class="outline-4">
+<h4 id="orgd2fac0c"><span class="section-number-4">2.4.2.</span> Cui Dawei</h4>
+</div>
+<div id="outline-container-org3af3287" class="outline-4">
+<h4 id="org3af3287"><span class="section-number-4">2.4.3.</span> Zhengyang/Yao Minghong</h4>
+</div>
+<div id="outline-container-orgfa898dd" class="outline-4">
+<h4 id="orgfa898dd"><span class="section-number-4">2.4.4.</span> Yu Leran</h4>
+</div>
+<div id="outline-container-org97a96a3" class="outline-4">
+<h4 id="org97a96a3"><span class="section-number-4">2.4.5.</span> Su Chang</h4>
+</div>
+<div id="outline-container-org31af6f5" class="outline-4">
+<h4 id="org31af6f5"><span class="section-number-4">2.4.6.</span> Tian Lixin</h4>
+</div>
+<div id="outline-container-org585e204" class="outline-4">
+<h4 id="org585e204"><span class="section-number-4">2.4.7.</span> Zhang Dawei</h4>
+<div class="outline-text-4" id="text-2-4-7">
+<p>
+&#x2014;
+</p>
+</div>
+</div>
+<div id="outline-container-org36fe8f6" class="outline-4">
+<h4 id="org36fe8f6"><span class="section-number-4">2.4.8.</span> Farrah</h4>
+</div>
+<div id="outline-container-org5235fac" class="outline-4">
+<h4 id="org5235fac"><span class="section-number-4">2.4.9.</span> Imen</h4>
+</div>
+<div id="outline-container-org2e512ab" class="outline-4">
+<h4 id="org2e512ab"><span class="section-number-4">2.4.10.</span> Omar</h4>
+<div class="outline-text-4" id="text-2-4-10">
+<p>
+&#x2014;
+</p>
+</div>
+</div>
+<div id="outline-container-orgc61a97b" class="outline-4">
+<h4 id="orgc61a97b"><span class="section-number-4">2.4.11.</span> Song Lingfei</h4>
+</div>
+<div id="outline-container-orgad2b753" class="outline-4">
+<h4 id="orgad2b753"><span class="section-number-4">2.4.12.</span> Wang Xiaochuan</h4>
+</div>
+<div id="outline-container-orgbd1818d" class="outline-4">
+<h4 id="orgbd1818d"><span class="section-number-4">2.4.13.</span> Zhao Zeming</h4>
+<div class="outline-text-4" id="text-2-4-13">
+<p>
+&#x2014;
+</p>
+</div>
+</div>
+<div id="outline-container-org17bd02c" class="outline-4">
+<h4 id="org17bd02c"><span class="section-number-4">2.4.14.</span> Li Zhina</h4>
+<div class="outline-text-4" id="text-2-4-14">
+<p>
+<b>*</b>
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="date">Date: Today</p>
+<p class="author">Author: Xudong Pan</p>
+<p class="date">Created: 2023-10-25 三 18:42</p>
+</div>
+</body>
+</html>
