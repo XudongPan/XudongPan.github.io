@@ -26,31 +26,85 @@
 * Traveling to China
 ** City List
 *** Beijing 北京
+- [ ] Great Wall 长城
+- [ ] Forbiden City & Jingshan 故宫/景山公园
+- [ ] 798 art zone 798艺术区
+- [ ] Heaven Temple 天坛
+- [ ] Summer Palace 圆明园&颐和园
+- [ ] South Luogu xiang 南锣鼓巷
+- [ ] Nord See Park& Back see Park 北海公园&后海
+- [ ] Gong Wang Fu 恭王府
+- [ ] CBD CCTV 国贸
+- [ ] Embassy zone/Fashion Zone 三里屯&大使馆区
+- [ ] Confucious Temple 夫子庙
+- [ ] Yonghe Lama Temple 雍和宫
+- [ ] Tiananmen Squrer 天安门广场
+- [ ] University Zone 学院路
 *** Dandong 丹东
+- [ ] Korea boarder 朝鲜边界
+- [ ] Moon Island 月亮岛
+- [ ] Korean Town 朝鲜街
+- [ ] Jinjiang Hill 锦江山
+- [ ] Yuanbao Hill 元宝山
+- [ ] Korean War Museum 抗馆
+- [ ] Hushan Great Wall 虎山长城
+- [ ] Wulong Hot Spring 五龙背温泉
 *** Tianjin 天津
 *** Nanjing 南京
+- [ ] Yangzi River Bridge 长江大桥
+- [ ] Confucious Temple 夫子庙
+- [ ]
 *** Huangshan 黄山
 *** Suzhou 苏州
+- [ ] Tiger Hill 虎丘园林
 *** Shanghai 上海
+- [ ] East Pearl 东方明珠
+- [ ] Bund 外滩/南京路
+- [ ] JingAn temple 静安寺
+- [ ] Chenghuang Temple 城隍庙
 *** Hangzhou 杭州
+- [ ] Sudi 苏堤
+- [ ] West Lake 西湖 & 三潭映月
+- [ ] Lingyin Temple 灵隐寺
 *** Wuhan 武汉
+- [ ] Zhongshan Road 中山大道
+- [ ] Yangzi River Bridge 长江大桥
+- [ ] Huanghe Mansion 黄鹤楼
+- [ ] Hubei Museum 湖北博物馆
 *** Zhangjiajie 张家界
 *** Chongqing 重庆
+- [ ]
 *** Chengdu 成都
+- [ ] Wuhou Temple 武侯祠
+- [ ] Baoguang Temple 宝光寺
+- [ ] Chunxi Road 春熙路 3D显示屏
+- [ ] Panda Base 熊猫基地
 *** Xi‘An 西安
+- [ ] City Wall  城墙漫游
+- [ ] Bell Tower  钟楼
+- [ ] Terracotta Worrior 兵马俑秦始皇陵
+- [ ] ShanXi Museum 陕西博物馆
+- [ ] Night market 夜市
+- [ ] East Street 东大街
+- [ ] Dayan Tower 大雁塔
+- [ ] Xiaoyan Tower 小雁塔
+*** BaoJi 宝鸡
+- [ ] uncle 二大爷
+- [ ] BrozeTime Museum 青铜器博物馆
 ** Todo
  - [ ] Get New ID card
  - [ ] Update Driver License
  - [ ] Fix Laptop
  - [ ] change Iphone battery
- - [ ] Uni Classmate Meeting
  - [ ] Mid School Classmate Meeting
+ - [ ] University Classmate Meeting
  - [ ] Family Meeting
  - [ ]
 ** Present to China
 *** Star Model : Cui Dawei
 *** Train Model : Zhang Hongwei
 *** Reisling
+*** Swaroski：Phan Minh Thu
 ** People Would meet
 *** Zhang Hongwei
 *** Cui Dawei
@@ -69,4 +123,13 @@
 *** Zhao Zeming
 ---
 *** Li Zhina
-***
+---
+*** Pan JingYu/Pan Yanjie
+---
+*** Sun Li
+*** You Gang
+---
+*** Phan Minh Thuh
+*** Ha MenGin
+*** Won An
+---
