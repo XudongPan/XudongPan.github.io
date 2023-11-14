@@ -67,6 +67,7 @@
 - [ ] Bund 外滩/南京路
 - [ ] JingAn temple 静安寺
 - [ ] Chenghuang Temple 城隍庙
+- [ ] Zhou Zhuang Old Town 周庄古镇
 *** Hangzhou 杭州
 - [ ] Sudi 苏堤
 - [ ] West Lake 西湖 & 三潭映月
