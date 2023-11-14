@@ -69,9 +69,10 @@
 - [ ] Chenghuang Temple 城隍庙
 - [ ] Zhou Zhuang Old Town 周庄古镇
 *** Hangzhou 杭州
-- [ ] Sudi 苏堤
-- [ ] West Lake 西湖 & 三潭映月
+- [ ] West Lake  西湖十景 & 三潭映月
 - [ ] Lingyin Temple 灵隐寺
+- [ ] Thousand Islands Lake 千岛湖
+- [ ] West Vally swamp 西溪湿地
 *** Wuhan 武汉
 - [ ] Zhongshan Road 中山大道
 - [ ] Yangzi River Bridge 长江大桥
