@@ -98,6 +98,14 @@
 *** BaoJi 宝鸡
 - [ ] uncle 二大爷
 - [ ] BrozeTime Museum 青铜器博物馆
+** Visa & Flight
+*** Visa
+*** Flight Booking
+**** CTrip
+**** Piggy
+**** Skyscanner
+**** kaytrip
+**** Official Site(Eastern,AirChina,Southern China,Lufthansa, AirFrance, Austrian Airline)
 ** Todo
  - [ ] Get New ID card
  - [ ] Update Driver License
