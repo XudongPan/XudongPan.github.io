@@ -28,6 +28,7 @@
 *** Beijing 北京
 - [ ] Great Wall 长城
 - [ ] Forbiden City & Jingshan 故宫/景山公园
+- [ ] 13 Ming Tomb 十三陵
 - [ ] 798 art zone 798艺术区
 - [ ] Heaven Temple 天坛
 - [ ] Summer Palace 圆明园&颐和园
@@ -40,6 +41,7 @@
 - [ ] Yonghe Lama Temple 雍和宫
 - [ ] Tiananmen Squrer 天安门广场
 - [ ] University Zone 学院路
+- [ ] Xidan Catholic Church 西单教堂
 *** Dandong 丹东
 - [ ] Korea boarder 朝鲜边界
 - [ ] Moon Island 月亮岛
@@ -50,13 +52,16 @@
 - [ ] Hushan Great Wall 虎山长城
 - [ ] Wulong Hot Spring 五龙背温泉
 *** Tianjin 天津
+- [ ] Binhai City Library 天津滨海图书馆
+- [ ] Glass hause 玻璃楼
 *** Nanjing 南京
 - [ ] Yangzi River Bridge 长江大桥
 - [ ] Confucious Temple 夫子庙
-- [ ]
+- [ ] Zhongshan Tomb 中山陵
+- [ ] presidential palace 总统府
 *** Huangshan 黄山
 *** Suzhou 苏州
-- [ ] Tiger Hill 虎丘园林
+ - [ ] Tiger Hill 虎丘园林
 *** Shanghai 上海
 - [ ] East Pearl 东方明珠
 - [ ] Bund 外滩/南京路
@@ -73,14 +78,13 @@
 - [ ] Hubei Museum 湖北博物馆
 *** Zhangjiajie 张家界
 *** Chongqing 重庆
-- [ ]
 *** Chengdu 成都
 - [ ] Wuhou Temple 武侯祠
 - [ ] Baoguang Temple 宝光寺
 - [ ] Chunxi Road 春熙路 3D显示屏
 - [ ] Panda Base 熊猫基地
 *** Xi‘An 西安
-- [ ] City Wall  城墙漫游
+- [ ] City Wall hiking 城墙漫游
 - [ ] Bell Tower  钟楼
 - [ ] Terracotta Worrior 兵马俑秦始皇陵
 - [ ] ShanXi Museum 陕西博物馆
@@ -99,12 +103,14 @@
  - [ ] Mid School Classmate Meeting
  - [ ] University Classmate Meeting
  - [ ] Family Meeting
- - [ ]
 ** Present to China
-*** Star Model : Cui Dawei
-*** Train Model : Zhang Hongwei
-*** Reisling
-*** Swaroski：Phan Minh Thu
+*** Star Model: Cui Dawei
+*** Iron Train toy: Zhang Hongwei
+*** Train Manual: Zhang Hongwei
+*** Coin collection: Zhanghongwei，Sun Dejun
+*** Reisling:
+*** Chocolate:
+*** Swaroski:Phan Minh Thu
 ** People Would meet
 *** Zhang Hongwei
 *** Cui Dawei
