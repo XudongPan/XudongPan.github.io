@@ -14,3 +14,7 @@ p,li {
 .title {
     color: green;
 }
+
+body {
+    flex: auto;
+}
