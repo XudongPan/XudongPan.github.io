@@ -1,0 +1,155 @@
+{
+  "main": {
+    "id": "61e3ad72753880b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "05e97f92c0d0dcb3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7c0fcb37ffb69be1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "helen/invitation.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6484f0b65b750b19",
+    "type": "split",
+    "children": [
+      {
+        "id": "4bc1600149f56dd9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e0b514fd603e7262",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7e7864a26dbb443c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "037a91db4e925dbb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6f00a720b6eac6b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "388977a0195d26f6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a4dad897a992fb8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "helen/invitation.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "01a5b8af5e27eacc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "helen/invitation.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1f875bd2636443dd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "58a6bc1253156dd1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "helen/invitation.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "7c0fcb37ffb69be1",
+  "lastOpenFiles": [
+    "helen/ApplyForm_FRA2231217AL4826325.pdf",
+    "helen/未确认 119966.crdownload",
+    "visa.md"
+  ]
+}
