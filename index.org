@@ -40,8 +40,10 @@
 - [ ] Confucious Temple 夫子庙
 - [ ] Yonghe Lama Temple 雍和宫
 - [ ] Tiananmen Squrer 天安门广场
+- [ ] Beijing Opera 北京京剧院
 - [ ] University Zone 学院路
 - [ ] Xidan Catholic Church 西单教堂
+- [ ] 世贸天阶 秀水街
 *** Dandong 丹东
 - [ ] Korea boarder 朝鲜边界
 - [ ] Moon Island 月亮岛
@@ -51,9 +53,13 @@
 - [ ] Korean War Museum 抗馆
 - [ ] Hushan Great Wall 虎山长城
 - [ ] Wulong Hot Spring 五龙背温泉
+- [ ] Dog/Korean restaurant 狗肉馆/柳京饭店
+- [ ] Old Building On the street 日据时期建筑
+- [ ] Gushan Farmers home 大孤山农村家
 *** Tianjin 天津
 - [ ] Binhai City Library 天津滨海图书馆
-- [ ] Glass hause 玻璃楼
+- [ ] Glass house 玻璃楼
+- [ ] Binhai ghost city 滨海新区鬼城
 *** Nanjing 南京
 - [ ] Yangzi River Bridge 长江大桥
 - [ ] Confucious Temple 夫子庙
@@ -62,13 +68,14 @@
 *** Huangshan 黄山
 *** Suzhou 苏州
  - [ ] Tiger Hill 虎丘园林
- - [ ]
+
 *** Shanghai 上海
 - [ ] East Pearl 东方明珠
 - [ ] Bund 外滩/南京路
 - [ ] JingAn temple 静安寺
 - [ ] Chenghuang Temple 城隍庙
 - [ ] Zhou Zhuang Old Town 周庄古镇
+- [ ] Yanan Road Dragon Pole 延安路龙柱
 *** Hangzhou 杭州
 - [ ] West Lake  西湖十景 & 三潭映月
 - [ ] Lingyin Temple 灵隐寺
@@ -97,7 +104,8 @@
 - [ ] Xiaoyan Tower 小雁塔
 *** BaoJi 宝鸡
 - [ ] uncle 二大爷
-- [ ] BrozeTime Museum 青铜器博物馆
+- [ ] Bronze Time Museum 青铜器博物馆
+
 ** Visa & Flight
 *** Visa
 *** Flight Booking
@@ -106,23 +114,28 @@
 **** Skyscanner
 **** kaytrip
 **** Official Site(Eastern,AirChina,Southern China,Lufthansa, AirFrance, Austrian Airline)
+
 ** ToDo
- - [ ] Get New ID card
- - [ ] Update Driver License
- - [ ] Fix Laptop
- - [ ] change Iphone battery
- - [ ] Mid School Classmate Meeting
+ - [ ] Get New ID card 身份证
+ - [ ] Update Driver License 更新驾照
+ - [ ] Fix Mac Laptop 中关村修Mac
+ - [ ] change Iphone battery 中关村修手机电池
+ - [ ] Mid School Classmate Meeting 初中同学会
  - [ ] University Classmate Meeting
  - [ ] Family Meeting
  - [ ] Su Silk 苏绣
+
 ** Present to China
 *** Star Model: Cui Dawei
 *** Iron Train toy: Zhang Hongwei
 *** Train Manual: Zhang Hongwei
 *** Coin collection: Zhanghongwei，Sun Dejun
 *** Reisling:
+*** Champagne:
+*** Sekt:
 *** Chocolate:
-*** Swaroski:Phan Minh Thu
+*** Swaroski: Phan Minh Thu
+
 ** People Would meet
 *** Zhang Hongwei
 *** Cui Dawei
