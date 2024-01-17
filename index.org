@@ -28,12 +28,14 @@
 *** Beijing 北京
 - [ ] Great Wall 长城
 - [ ] Forbiden City & Jingshan 故宫/景山公园
-- [ ] 13 Ming Tomb 十三陵
+- [ ] Ming Tomb 十三陵
 - [ ] 798 art zone 798艺术区
+- [ ] National Stadium & Water square 鸟巢 水立方
+- [ ] National Museum 国家博物馆
 - [ ] Heaven Temple 天坛
 - [ ] Summer Palace 圆明园&颐和园
 - [ ] South Luogu xiang 南锣鼓巷
-- [ ] Nord See Park& Back see Park 北海公园&后海
+- [ ] Nord Sea Park& Back sea Park 北海公园&后海
 - [ ] Gong Wang Fu 恭王府
 - [ ] CBD CCTV 国贸
 - [ ] Embassy zone/Fashion Zone 三里屯&大使馆区
@@ -41,9 +43,10 @@
 - [ ] Yonghe Lama Temple 雍和宫
 - [ ] Tiananmen Squrer 天安门广场
 - [ ] Beijing Opera 北京京剧院
+- [ ] Nation theater 国家大剧院
 - [ ] University Zone 学院路
 - [ ] Xidan Catholic Church 西单教堂
-- [ ] 世贸天阶 秀水街
+- [ ] Silk street 世贸天阶 秀水街
 *** Dandong 丹东
 - [ ] Korea boarder 朝鲜边界
 - [ ] Moon Island 月亮岛
@@ -58,26 +61,28 @@
 - [ ] Gushan Farmers home 大孤山农村家
 *** Tianjin 天津
 - [ ] Binhai City Library 天津滨海图书馆
-- [ ] Glass house 玻璃楼
 - [ ] Binhai ghost city 滨海新区鬼城
+- [ ] Glass house 玻璃楼
 *** Nanjing 南京
 - [ ] Yangzi River Bridge 长江大桥
 - [ ] Confucious Temple 夫子庙
 - [ ] Zhongshan Tomb 中山陵
 - [ ] presidential palace 总统府
+
 *** Huangshan 黄山
 *** Suzhou 苏州
- - [ ] Tiger Hill 虎丘园林
+- [ ] Tiger Hill 虎丘园林
 
 *** Shanghai 上海
 - [ ] East Pearl 东方明珠
 - [ ] Bund 外滩/南京路
+- [ ] yuyuan 豫园
 - [ ] JingAn temple 静安寺
 - [ ] Chenghuang Temple 城隍庙
 - [ ] Zhou Zhuang Old Town 周庄古镇
 - [ ] Yanan Road Dragon Pole 延安路龙柱
 *** Hangzhou 杭州
-- [ ] West Lake  西湖十景 & 三潭映月
+- [ ] West Lake  西湖十景
 - [ ] Lingyin Temple 灵隐寺
 - [ ] Thousand Islands Lake 千岛湖
 - [ ] West Vally swamp 西溪湿地
@@ -94,8 +99,8 @@
 - [ ] Chunxi Road 春熙路 3D显示屏
 - [ ] Panda Base 熊猫基地
 *** Xi‘An 西安
-- [ ] City Wall hiking 城墙漫游
-- [ ] Bell Tower  钟楼
+- [ ] City Wall walking 城墙漫游
+- [ ] Bell Tower 钟楼
 - [ ] Terracotta Worrior 兵马俑秦始皇陵
 - [ ] ShanXi Museum 陕西博物馆
 - [ ] Night market 夜市
@@ -107,16 +112,16 @@
 - [ ] Bronze Time Museum 青铜器博物馆
 
 ** Visa & Flight
-*** Visa
-*** Flight Booking
-**** CTrip
-**** Piggy
-**** Skyscanner
-**** kaytrip
-**** Official Site(Eastern,AirChina,Southern China,Lufthansa, AirFrance, Austrian Airline)
+*** [x] Visa
+*** [x] Flight Booking
+***** CTrip
+***** Piggy
+***** Skyscanner
+***** kaytrip
+***** Official Site(Eastern,AirChina,Southern China,Lufthansa, AirFrance, Austrian Airline)
 
 ** ToDo
- - [ ] Get New ID card 身份证
+ - [ ] Get New ID card 更新身份证
  - [ ] Update Driver License 更新驾照
  - [ ] Fix Mac Laptop 中关村修Mac
  - [ ] change Iphone battery 中关村修手机电池
@@ -124,43 +129,45 @@
  - [ ] University Classmate Meeting
  - [ ] Family Meeting
  - [ ] Su Silk 苏绣
+ - [ ] Silk Clothes 丝绸外衣
 
-** Present to China
-*** Star Model: Cui Dawei
-*** Iron Train toy: Zhang Hongwei
-*** Train Manual: Zhang Hongwei
-*** Coin collection: Zhanghongwei，Sun Dejun
+** Present
+*** Copernicus Observatory : 崔大伟
+*** Iron Train toy: 张宏伟 Zhang Hongwei
+*** Train Manual: 张宏伟 Zhang Hongwei
+*** Engineers vehicle: 张宏伟 Zhang Hongwei
+*** Coin collection: 孙德军
 *** Reisling:
 *** Champagne:
 *** Sekt:
 *** Chocolate:
 *** Swaroski: Phan Minh Thu
-
+*** Q10: 张大伟
+*** 泡腾片: 老爹
 ** People Would meet
-*** Zhang Hongwei
-*** Cui Dawei
-*** Zhengyang/Yao Minghong
-*** Yu Leran
-*** Su Chang
-*** Tian Lixin
-*** Zhang Dawei
+*** 张宏伟
+*** 于乐然
+*** 苏畅
+*** 田立新
+*** 张艳霞
+*** 张大伟
 ---
+*** 崔大伟
 *** Farrah
 *** Imen
 *** Omar
 ---
-*** Song Lingfei
-*** Wang Xiaochuan
-*** Zhao Zeming
+*** 宋凌飞 Song Lingfei
+*** 王笑川 Wang Xiaochuan
 ---
-*** Li Zhina
+*** 李支娜 Li Zhina
 ---
 *** Pan JingYu/Pan Yanjie
 ---
-*** Sun Li
-*** You Gang
+*** 孙俪 Sun Li
+*** 游刚 You Gang
 ---
-*** Phan Minh Thuh
-*** Ha MenGin
-*** Won An
+*** 范明舒 Phan Minh Thuh
+*** 何文九 Ha
+*** 阮女淑安 Won An
 ---
