@@ -107,6 +107,7 @@
 - [ ] East Street 东大街
 - [ ] Dayan Tower 大雁塔
 - [ ] Xiaoyan Tower 小雁塔
+- [ ] Tang-paradise 大唐芙蓉园
 *** BaoJi 宝鸡
 - [ ] uncle 二大爷
 - [ ] Bronze Time Museum 青铜器博物馆
@@ -123,6 +124,7 @@
 ** ToDo
  - [ ] Get New ID card 更新身份证
  - [ ] Update Driver License 更新驾照
+ - [ ] Fix Computer 整理家里电脑
  - [ ] Fix Mac Laptop 中关村修Mac
  - [ ] change Iphone battery 中关村修手机电池
  - [ ] Mid School Classmate Meeting 初中同学会
@@ -150,6 +152,8 @@
 *** 苏畅
 *** 田立新
 *** 张艳霞
+*** 孙兆新
+*** 六楼邻居
 *** 张大伟
 ---
 *** 崔大伟
