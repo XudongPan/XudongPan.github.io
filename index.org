@@ -39,47 +39,54 @@
 - [ ] Gong Wang Fu 恭王府
 - [ ] CBD CCTV 国贸
 - [ ] Embassy zone/Fashion Zone 三里屯&大使馆区
-- [ ] Confucious Temple 夫子庙
+- [ ] Confucious Temple 国子监
 - [ ] Yonghe Lama Temple 雍和宫
-- [ ] Tiananmen Squrer 天安门广场
+- [ ] Tiananmen Square 天安门广场
 - [ ] Beijing Opera 北京京剧院
 - [ ] Nation theater 国家大剧院
 - [ ] University Zone 学院路
 - [ ] Xidan Catholic Church 西单教堂
 - [ ] Silk street 世贸天阶 秀水街
 *** Dandong 丹东
-- [ ] Korea boarder 朝鲜边界
-- [ ] Moon Island 月亮岛
+- [X] Korea boarder 朝鲜边界
+- [X] Moon Island 月亮岛
 - [ ] Korean Town 朝鲜街
 - [ ] Jinjiang Hill 锦江山
 - [ ] Yuanbao Hill 元宝山
 - [ ] Korean War Museum 抗馆
 - [ ] Hushan Great Wall 虎山长城
-- [ ] Wulong Hot Spring 五龙背温泉
-- [ ] Dog/Korean restaurant 狗肉馆/柳京饭店
-- [ ] Old Building On the street 日据时期建筑
+- [X] Wulong Hot Spring 五龙背温泉
+- [X] Dog/Korean restaurant 狗肉馆/柳京饭店
+- [X] Old Building On the street 日据时期建筑
 - [ ] Gushan Farmers home 大孤山农村家
 *** Tianjin 天津
 - [ ] Binhai City Library 天津滨海图书馆
 - [ ] Binhai ghost city 滨海新区鬼城
 - [ ] Glass house 玻璃楼
+- [ ] European concessions 租借地
+- [ ] Downtown architecture 市区建筑
 *** Nanjing 南京
 - [ ] Yangzi River Bridge 长江大桥
 - [ ] Confucious Temple 夫子庙
+- [ ] Qinhuai river 秦淮河
 - [ ] Zhongshan Tomb 中山陵
+- [ ] Ming Tomb 明孝陵
 - [ ] presidential palace 总统府
 
 *** Huangshan 黄山
 *** Suzhou 苏州
-- [ ] Tiger Hill 虎丘园林
+- [ ] Tiger Hill 虎丘
+- [ ] zhuozheng Park 拙政园
 
 *** Shanghai 上海
 - [ ] East Pearl 东方明珠
 - [ ] Bund 外滩/南京路
-- [ ] yuyuan 豫园
+- [ ] yuyuan 豫园 (opt)
 - [ ] JingAn temple 静安寺
-- [ ] Chenghuang Temple 城隍庙
+- [ ] Chenghuang Temple 城隍庙(opt)
 - [ ] Zhou Zhuang Old Town 周庄古镇
+- [ ] 田子坊
+- [ ] Harbo Museum
 - [ ] Yanan Road Dragon Pole 延安路龙柱
 *** Hangzhou 杭州
 - [ ] West Lake  西湖十景
@@ -122,7 +129,7 @@
 ***** Official Site(Eastern,AirChina,Southern China,Lufthansa, AirFrance, Austrian Airline)
 
 ** ToDo
- - [ ] Get New ID card 更新身份证
+ - [X] Get New ID card 更新身份证
  - [ ] Update Driver License 更新驾照
  - [ ] Fix Computer 整理家里电脑
  - [ ] Fix Mac Laptop 中关村修Mac
@@ -145,7 +152,7 @@
 *** Chocolate:
 *** Swaroski: Phan Minh Thu
 *** Q10: 张大伟
-*** 泡腾片: 老爹
+*** i泡腾片: 老爹
 ** People Would meet
 *** 张宏伟
 *** 于乐然
@@ -169,7 +176,6 @@
 *** Pan JingYu/Pan Yanjie
 ---
 *** 孙俪 Sun Li
-*** 游刚 You Gang
 ---
 *** 范明舒 Phan Minh Thuh
 *** 何文九 Ha
