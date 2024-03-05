@@ -39,7 +39,7 @@
 - [ ] Gong Wang Fu 恭王府
 - [ ] CBD CCTV 国贸
 - [ ] Embassy zone/Fashion Zone 三里屯&大使馆区
-- [ ] Confucious Temple 国子监
+- [ ] Confuciouucious Temple 国子监
 - [ ] Yonghe Lama Temple 雍和宫
 - [ ] Tiananmen Square 天安门广场
 - [ ] Beijing Opera 北京京剧院
@@ -50,11 +50,11 @@
 *** Dandong 丹东
 - [X] Korea boarder 朝鲜边界
 - [X] Moon Island 月亮岛
-- [ ] Korean Town 朝鲜街
-- [ ] Jinjiang Hill 锦江山
+- [X] Korean Town 朝鲜街
+- [X] Jinjiang Hill 锦江山
 - [ ] Yuanbao Hill 元宝山
-- [ ] Korean War Museum 抗馆
-- [ ] Hushan Great Wall 虎山长城
+- [X] Korean War Museum 抗馆
+- [X] Hushan Great Wall 虎山长城
 - [X] Wulong Hot Spring 五龙背温泉
 - [X] Dog/Korean restaurant 狗肉馆/柳京饭店
 - [X] Old Building On the street 日据时期建筑
@@ -97,24 +97,24 @@
 - [ ] Zhongshan Road 中山大道
 - [ ] Yangzi River Bridge 长江大桥
 - [ ] Huanghe Mansion 黄鹤楼
-- [ ] Hubei Museum 湖北博物馆
+- [X] Hubei Museum 湖北博物馆
 *** Zhangjiajie 张家界
 *** Chongqing 重庆
 *** Chengdu 成都
 - [ ] Wuhou Temple 武侯祠
 - [ ] Baoguang Temple 宝光寺
-- [ ] Chunxi Road 春熙路 3D显示屏
-- [ ] Panda Base 熊猫基地
+- [X] Chunxi Road 春熙路 3D显示屏
+- [X] Panda Base 熊猫基地
 *** Xi‘An 西安
-- [ ] City Wall walking 城墙漫游
-- [ ] Bell Tower 钟楼
-- [ ] Terracotta Worrior 兵马俑秦始皇陵
+- [X] City Wall walking 城墙漫游
+- [X] Bell Tower 钟楼
+- [X] Terracotta Worrior 兵马俑秦始皇陵
 - [ ] ShanXi Museum 陕西博物馆
 - [ ] Night market 夜市
-- [ ] East Street 东大街
-- [ ] Dayan Tower 大雁塔
-- [ ] Xiaoyan Tower 小雁塔
-- [ ] Tang-paradise 大唐芙蓉园
+- [X] East Street 东大街
+- [X] Dayan Tower 大雁塔
+- [X] Xiaoyan Tower 小雁塔
+- [X] Tang-paradise 大唐芙蓉园
 *** BaoJi 宝鸡
 - [ ] uncle 二大爷
 - [ ] Bronze Time Museum 青铜器博物馆
