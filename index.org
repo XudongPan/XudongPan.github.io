@@ -25,7 +25,7 @@
 
 * Traveling to China
 ** City List
-*** Beijing 北京
+*** Beijing 北京 [0%]
 - [ ] Great Wall 长城
 - [ ] Forbiden City & Jingshan 故宫/景山公园
 - [ ] Ming Tomb 十三陵
@@ -47,25 +47,13 @@
 - [ ] University Zone 学院路
 - [ ] Xidan Catholic Church 西单教堂
 - [ ] Silk street 世贸天阶 秀水街
-*** Dandong 丹东
-- [X] Korea boarder 朝鲜边界
-- [X] Moon Island 月亮岛
-- [X] Korean Town 朝鲜街
-- [X] Jinjiang Hill 锦江山
-- [ ] Yuanbao Hill 元宝山
-- [X] Korean War Museum 抗馆
-- [X] Hushan Great Wall 虎山长城
-- [X] Wulong Hot Spring 五龙背温泉
-- [X] Dog/Korean restaurant 狗肉馆/柳京饭店
-- [X] Old Building On the street 日据时期建筑
-- [ ] Gushan Farmers home 大孤山农村家
-*** Tianjin 天津
+*** Tianjin 天津 [0%]
 - [ ] Binhai City Library 天津滨海图书馆
 - [ ] Binhai ghost city 滨海新区鬼城
 - [ ] Glass house 玻璃楼
 - [ ] European concessions 租借地
 - [ ] Downtown architecture 市区建筑
-*** Nanjing 南京
+*** Nanjing 南京 [0%]
 - [ ] Yangzi River Bridge 长江大桥
 - [ ] Confucious Temple 夫子庙
 - [ ] Qinhuai river 秦淮河
@@ -73,39 +61,56 @@
 - [ ] Ming Tomb 明孝陵
 - [ ] presidential palace 总统府
 
-*** Huangshan 黄山
-*** Suzhou 苏州
+*** Suzhou 苏州 [0%]
 - [ ] Tiger Hill 虎丘
 - [ ] zhuozheng Park 拙政园
 
-*** Shanghai 上海
-- [ ] East Pearl 东方明珠
-- [ ] Bund 外滩/南京路
-- [ ] yuyuan 豫园 (opt)
+*** Shanghai 上海 [50%]
+- [X] East Pearl 东方明珠
+- [X] Bund 外滩/南京路
+- [X] wu zhen 乌镇
+- [X] Nan Xun 南浔
+- [X] Yanan Road Dragon Pole 延安路龙柱
 - [ ] JingAn temple 静安寺
-- [ ] Chenghuang Temple 城隍庙(opt)
-- [ ] Zhou Zhuang Old Town 周庄古镇
-- [ ] 田子坊
+- [ ] Tianzifang 田子坊
 - [ ] Harbo Museum
-- [ ] Yanan Road Dragon Pole 延安路龙柱
-*** Hangzhou 杭州
-- [ ] West Lake  西湖十景
-- [ ] Lingyin Temple 灵隐寺
-- [ ] Thousand Islands Lake 千岛湖
+- [ ] yuyuan 豫园 (opt)
+- [ ] Chenghuang Temple 城隍庙(opt)
+*** Hangzhou 杭州 [40%]
+- [X] West Lake  西湖十景
+- [X] Lingyin Temple 灵隐寺
 - [ ] West Vally swamp 西溪湿地
-*** Wuhan 武汉
+*** Jingdezhen 景德镇 [100%]
+- [X] Tao xi chuan Culture Street 陶溪川
+- [X] San Bao Village 三宝村
+- [X] Tao Yang Li Park 陶阳里瓷器博物馆
+- [X] China porcelain museum 中国瓷器博物馆
+*** Wuhan 武汉 [25%]
+- [X] Hubei Museum 湖北博物馆
 - [ ] Zhongshan Road 中山大道
 - [ ] Yangzi River Bridge 长江大桥
 - [ ] Huanghe Mansion 黄鹤楼
-- [X] Hubei Museum 湖北博物馆
-*** Zhangjiajie 张家界
-*** Chongqing 重庆
-*** Chengdu 成都
+*** Chongqing 重庆 [80%]
+- [X] Chaotianmen Harbor 朝天门
+- [X] City Light Show 重庆灯光夜景
+- [X] Consolar lane 领事巷
+- [X] 18th stairstep 十八阶
+- [X] Ciqikou Old town磁器口古镇
+- [X] Three gorges cruise三峡邮轮
+- [X] fengdu city of ghost 丰都鬼城
+- [X] Liziba Subway Station 李子坝轻轨站
+- [ ] Hongyadong 洪崖洞
+- [ ] Librity monument 解放碑
+*** Chengdu 成都 [75%]
 - [ ] Wuhou Temple 武侯祠
 - [ ] Baoguang Temple 宝光寺
 - [X] Chunxi Road 春熙路 3D显示屏
 - [X] Panda Base 熊猫基地
-*** Xi‘An 西安
+- [X] Sanxingdui Museum 三星堆博物馆
+- [X] Dujiangyan 都江堰
+- [X] Panda Valley 熊猫谷
+- [X] Guan xian Old Town 灌县古城
+*** Xi‘An 西安 [66%]
 - [X] City Wall walking 城墙漫游
 - [X] Bell Tower 钟楼
 - [X] Terracotta Worrior 兵马俑秦始皇陵
@@ -114,10 +119,42 @@
 - [X] East Street 东大街
 - [X] Dayan Tower 大雁塔
 - [X] Xiaoyan Tower 小雁塔
-- [X] Tang-paradise 大唐芙蓉园
-*** BaoJi 宝鸡
+- [X] Muslin Street 回民街
+- [X] chinese style mousque 中式大清真寺
+- [ ] Tang-paradise 大唐芙蓉园
+*** Shenyang 沈阳 [100%]
+- [X] Laobian Dumpling 老边饺子
+- [X] Small forbidden city 沈阳故宫
+- [X] 3 Female temples 三座尼姑庵
+*** Dandong 丹东 [81%]
+- [X] Korea boarder 朝鲜边界
+- [X] Moon Island 月亮岛
+- [X] Korean Town 朝鲜街
+- [X] Jinjiang Hill 锦江山
+- [X] Korean War Museum 抗馆
+- [X] Hushan Great Wall 虎山长城
+- [X] Wulong Hot Spring 五龙背温泉
+- [X] Dog/Korean restaurant 狗肉馆/柳京饭店
+- [X] Old Building On the street 日据时期建筑
+- [ ] Yuanbao Hill 元宝山
+- [ ] Gushan Farmers home 大孤山农村家
+*** Huangshan 黄山
+*** Zhangjiajie 张家界
+*** BaoJi 宝鸡[0%]
 - [ ] uncle 二大爷
 - [ ] Bronze Time Museum 青铜器博物馆
+
+** ToDo
+ - [X] Get New ID card 更新身份证
+ - [ ] Update Driver License 更新驾照
+ - [ ] Fix Computer 整理家里电脑
+ - [ ] Fix Mac Laptop 中关村修Mac
+ - [X] change Iphone battery 中关村修手机电池
+ - [ ] Mid School Classmate Meeting 初中同学会
+ - [ ] University Classmate Meeting
+ - [X] Family Meeting
+ - [ ] Su Silk 苏绣
+ - [X] Silk Clothes 丝绸外衣
 
 ** Visa & Flight
 *** [x] Visa
@@ -127,18 +164,6 @@
 ***** Skyscanner
 ***** kaytrip
 ***** Official Site(Eastern,AirChina,Southern China,Lufthansa, AirFrance, Austrian Airline)
-
-** ToDo
- - [X] Get New ID card 更新身份证
- - [ ] Update Driver License 更新驾照
- - [ ] Fix Computer 整理家里电脑
- - [ ] Fix Mac Laptop 中关村修Mac
- - [ ] change Iphone battery 中关村修手机电池
- - [ ] Mid School Classmate Meeting 初中同学会
- - [ ] University Classmate Meeting
- - [ ] Family Meeting
- - [ ] Su Silk 苏绣
- - [ ] Silk Clothes 丝绸外衣
 
 ** Present
 *** Copernicus Observatory : 崔大伟
