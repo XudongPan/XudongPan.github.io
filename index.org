@@ -53,29 +53,22 @@
 - [ ] Glass house 玻璃楼
 - [ ] European concessions 租借地
 - [ ] Downtown architecture 市区建筑
-*** Nanjing 南京 [0%]
-- [ ] Yangzi River Bridge 长江大桥
-- [ ] Confucious Temple 夫子庙
-- [ ] Qinhuai river 秦淮河
-- [ ] Zhongshan Tomb 中山陵
-- [ ] Ming Tomb 明孝陵
-- [ ] presidential palace 总统府
+*** Suzhou 苏州 [100%]
+- [X] Tiger Hill 虎丘
+- [X] zhuozheng Park 拙政园
+- [X] LiuYuan 留园
+- [X] jinji Lake 金鸡湖
 
-*** Suzhou 苏州 [0%]
-- [ ] Tiger Hill 虎丘
-- [ ] zhuozheng Park 拙政园
-
-*** Shanghai 上海 [50%]
+*** Shanghai 上海 [77%]
 - [X] East Pearl 东方明珠
 - [X] Bund 外滩/南京路
 - [X] wu zhen 乌镇
 - [X] Nan Xun 南浔
 - [X] Yanan Road Dragon Pole 延安路龙柱
-- [ ] JingAn temple 静安寺
-- [ ] Tianzifang 田子坊
+- [X] JingAn temple 静安寺
+- [X] Jewish Refugees museum
 - [ ] Harbo Museum
 - [ ] yuyuan 豫园 (opt)
-- [ ] Chenghuang Temple 城隍庙(opt)
 *** Hangzhou 杭州 [40%]
 - [X] West Lake  西湖十景
 - [X] Lingyin Temple 灵隐寺
@@ -139,6 +132,14 @@
 - [ ] Yuanbao Hill 元宝山
 - [ ] Gushan Farmers home 大孤山农村家
 *** Huangshan 黄山
+*** Nanjing 南京 [0%]
+- [ ] Yangzi River Bridge 长江大桥
+- [ ] Confucious Temple 夫子庙
+- [ ] Qinhuai river 秦淮河
+- [ ] Zhongshan Tomb 中山陵
+- [ ] Ming Tomb 明孝陵
+- [ ] presidential palace 总统府
+
 *** Zhangjiajie 张家界
 *** BaoJi 宝鸡[0%]
 - [ ] uncle 二大爷
