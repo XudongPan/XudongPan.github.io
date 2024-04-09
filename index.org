@@ -25,34 +25,31 @@
 
 * Traveling to China
 ** City List
-*** Beijing 北京 [0%]
-- [ ] Great Wall 长城
-- [ ] Forbiden City & Jingshan 故宫/景山公园
-- [ ] Ming Tomb 十三陵
-- [ ] 798 art zone 798艺术区
-- [ ] National Stadium & Water square 鸟巢 水立方
-- [ ] National Museum 国家博物馆
-- [ ] Heaven Temple 天坛
-- [ ] Summer Palace 圆明园&颐和园
-- [ ] South Luogu xiang 南锣鼓巷
-- [ ] Nord Sea Park& Back sea Park 北海公园&后海
-- [ ] Gong Wang Fu 恭王府
-- [ ] CBD CCTV 国贸
+*** Beijing 北京 [61%]
+- [X] Forbiden City & Jingshan 故宫/景山公园
+- [X] 798 art zone 798艺术区
+- [X] National Stadium & Water square 鸟巢 水立方
+- [X] Heaven Temple 天坛
+- [X] Summer Palace 圆明园&颐和园
+- [X] South Luogu xiang 南锣鼓巷
+- [X] Nord Sea Park& Back sea Park 北海公园&后海
+- [X] CBD CCTV 国贸
+- [X] Confuciouucious Temple 国子监
+- [X] Yonghe Lama Temple 雍和宫
+- [X] Tiananmen Square 天安门广场
+- [X] Beijing Opera 北京京剧院
+- [X] Nation theater 国家大剧院
 - [ ] Embassy zone/Fashion Zone 三里屯&大使馆区
-- [ ] Confuciouucious Temple 国子监
-- [ ] Yonghe Lama Temple 雍和宫
-- [ ] Tiananmen Square 天安门广场
-- [ ] Beijing Opera 北京京剧院
-- [ ] Nation theater 国家大剧院
+- [ ] Gong Wang Fu 恭王府
+- [ ] National Museum 国家博物馆
+- [ ] Great Wall 长城
 - [ ] University Zone 学院路
+- [ ] Ming Tomb 十三陵
 - [ ] Xidan Catholic Church 西单教堂
 - [ ] Silk street 世贸天阶 秀水街
-*** Tianjin 天津 [0%]
-- [ ] Binhai City Library 天津滨海图书馆
-- [ ] Binhai ghost city 滨海新区鬼城
-- [ ] Glass house 玻璃楼
-- [ ] European concessions 租借地
-- [ ] Downtown architecture 市区建筑
+*** Tianjin 天津 [50%]
+- [X] Glass house 玻璃楼
+- [X] European concessions 租借地
 *** Suzhou 苏州 [100%]
 - [X] Tiger Hill 虎丘
 - [X] zhuozheng Park 拙政园
